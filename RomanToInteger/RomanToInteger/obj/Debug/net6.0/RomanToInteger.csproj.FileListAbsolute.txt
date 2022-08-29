@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.exe
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.deps.json
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.runtimeconfig.json
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.dll
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\bin\Debug\net6.0\ref\RomanToInteger.dll
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\bin\Debug\net6.0\RomanToInteger.pdb
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.AssemblyInfo.cs
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.dll
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\obj\Debug\net6.0\ref\RomanToInteger.dll
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.pdb
+D:\kia prjc\tamrin\RomanToInteger\RomanToInteger\obj\Debug\net6.0\RomanToInteger.genruntimeconfig.cache
